@@ -33,7 +33,7 @@ input, select {
   position: fixed;
   top: 12px;
   right: 12px;
-  height: 132px;
+  height: 64px;
   width: auto;
   z-index: 1000;
 }
