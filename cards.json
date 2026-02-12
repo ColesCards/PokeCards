@@ -17,11 +17,5 @@
     "price": 25000,
     "image": "TagTeam.jpg"
   }
- {
-    "name": "Coal",
-    "set": "Human",
-    "price": 0.25,
-    "image": "images/Coal.jpg"
-  }
 
 ]
