@@ -1,8 +1,21 @@
 [
   {
-    "name": "Charizard (Base Set) - Holo",
+    "name": "Beau (Base Set) - Holo",
     "set": "Base Set",
     "price": 249.99,
     "image": "Beaufinal.jpg"
   }
+  {
+    "name": "Godzilla - Holo",
+    "set": "Nugget",
+    "price": 1000000,
+    "image": "Godzilla.jpg"
+  }
+  {
+    "name": "Tag Team",
+    "set": "Nugget % Peanut",
+    "price": 25000,
+    "image": "TagTeam.jpg"
+  }
+
 ]
