@@ -3,19 +3,19 @@
     "name": "Beau (Base Set) - Holo",
     "set": "Base Set",
     "price": 249.99,
-    "image": "Beaufinal.jpg"
+    "image": "images/Beaufinal.jpg"
   },
   {
     "name": "Godzilla - Holo",
     "set": "Nugget",
     "price": 1000000,
-    "image": "Godzilla.png"
+    "image": "images/Godzilla.png"
   },
   {
     "name": "Tag Team",
     "set": "Nugget & Peanut",
     "price": 25000,
-    "image": "TagTeam.jpg"
+    "image": "images/TagTeam.jpg"
   },
  {
     "name": "Coal",
