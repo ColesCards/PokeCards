@@ -28,3 +28,12 @@ input, select {
 }
 .price { font-weight: 700; }
 .empty { opacity: .8; }
+
+.corner-image {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  height: 96px;
+  width: auto;
+  z-index: 1000;
+}
